@@ -1,0 +1,8 @@
+hello world
+
+q
+!	
+ss
+u1020@workstation:~/Open_Source_Project$ cat > adam.txt
+
+
